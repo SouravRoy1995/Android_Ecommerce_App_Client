@@ -1,0 +1,288 @@
+{
+  "Category" : {
+    "01" : {
+      "Image" : "https://s19.postimg.org/6z0uxmpib/food.jpg",
+      "Name" : "Food"
+    },
+    "02" : {
+      "Image" : "https://s19.postimg.org/jdnmy19bn/780a43d9f14bdd06054458066af2b4e8.jpg",
+      "Name" : "Electronics"
+    },
+    "03" : {
+      "Image" : "https://s19.postimg.org/awo4mnes3/658812.jpg",
+      "Name" : "Household"
+    },
+    "04" : {
+      "Image" : "https://s19.postimg.org/k4gd3g1ar/Sports-1.png",
+      "Name" : "Sports"
+    },
+    "05" : {
+      "Image" : "https://s19.postimg.org/jexkr4irn/507311349.jpg",
+      "Name" : "Book"
+    },
+    "06" : {
+      "Image" : "https://s19.postimg.org/tozzqflir/musical-instruments-intro.jpg",
+      "Name" : "Musical Instriment"
+    },
+    "07" : {
+      "Image" : "https://s19.postimg.org/82kz9l2fn/iik-glory-pack-2-fancy-original-imaek495uchkyjp2.jpg",
+      "Name" : "Watch"
+    },
+    "08" : {
+      "Image" : "https://s19.postimg.org/w6bqy0q37/K60_K603801_001_main.jpg",
+      "Name" : "Bags"
+    },
+    "09" : {
+      "Image" : "https://s19.postimg.org/gm4d73apf/toys-main-c5824ff6cd696a4d896490aa7fad8ba2.png",
+      "Name" : "Toys"
+    },
+    "10" : {
+      "Image" : "https://s19.postimg.org/rygyox94j/tablets_capsules_multi-colored_drug_48978_1920x1080.jpg",
+      "Name" : "Medicine"
+    },
+    "11" : {
+      "Image" : "https://s19.postimg.org/q6nzu1kmr/cloth-bolts_2420447.jpg",
+      "Name" : "Cloth"
+    }
+  },
+  "User" : {
+    "017289100" : {
+      "name" : "Sourav",
+      "password" : "1234"
+    },
+    "017289101" : {
+      "name" : "Sourav",
+      "password" : "1234"
+    },
+    "017289107" : {
+      "name" : "Sourav",
+      "password" : "1234"
+    },
+    "017289109" : {
+      "name" : "Sourav",
+      "password" : "1234"
+    },
+    "017289158" : {
+      "name" : "Sourav",
+      "password" : "1234"
+    },
+    "017289198" : {
+      "name" : "Sourav",
+      "password" : "1234"
+    },
+    "018263452" : {
+      "Name" : "Avijeet",
+      "Password" : "1234"
+    },
+    "0172891583" : {
+      "name" : "Sourav",
+      "password" : "1234"
+    },
+    "0172891876" : {
+      "name" : "Sourav",
+      "password" : "1234"
+    }
+  },
+  "Medicines": {
+    "10": {
+      "Name": "Napa",
+      "Image": "https://s19.postimg.org/4hvy5lnir/Napa-_Extra.jpg",
+      "Description": "Acılı ve tereyağlı",
+      "Price": "15",
+      "Discount": "0",
+      "MenuId": "10"
+    },
+    "11": {
+      "Name": "Histacine",
+      "Image": "https://s19.postimg.org/4j5vynmo3/tablets_capsules_multi-colored_drug_48978_1920x1080.jpg",
+      "Description": "Acılı ve tereyağlı",
+      "Price": "15",
+      "Discount": "0",
+      "MenuId": "10"
+    },
+    "12": {
+      "Name": "Pantonix",
+      "Image": "https://s19.postimg.org/7z2lm2rbn/Pantonix_20_Tab.jpg",
+      "Description": "Acılı ve tereyağlı",
+      "Price": "15",
+      "Discount": "0",
+      "MenuId": "10"
+    },
+    "13": {
+      "Name": "Alatrol",
+      "Image": "https://s19.postimg.org/g4knkfahf/hqdefault.jpg",
+      "Description": "Acılı ve tereyağlı",
+      "Price": "15",
+      "Discount": "0",
+      "MenuId": "10"
+    },
+    "14": {
+      "Name": "Bactrobanointment",
+      "Image": "https://s19.postimg.org/biojc59jn/bactrobanointment.jpg",
+      "Description": "Acılı ve tereyağlı",
+      "Price": "15",
+      "Discount": "0",
+      "MenuId": "10"
+    },
+    "15": {
+      "Name": "Fexo",
+      "Image": "https://s19.postimg.org/5j0s7xyvn/FEXO-120.jpg",
+      "Description": "Acılı ve tereyağlı",
+      "Price": "15",
+      "Discount": "0",
+      "MenuId": "10"
+    },
+    "16": {
+      "Name": "Bactorocine",
+      "Image": "https://s19.postimg.org/xvw9yg2mb/BACTROCIN-600x315.jpg",
+      "Description": "Acılı ve tereyağlı",
+      "Price": "15",
+      "Discount": "0",
+      "MenuId": "10"
+    },
+    "17": {
+      "Name": "Angilock",
+      "Image": "https://s19.postimg.org/pq2s7wueb/angilock-plus-100_12_5_l.png",
+      "Description": "Acılı ve tereyağlı",
+      "Price": "15",
+      "Discount": "0",
+      "MenuId": "10"
+    },
+    "18": {
+      "Name": "Ketoral",
+      "Image": "https://s19.postimg.org/in6ckpbir/data20995.jpg",
+      "Description": "Acılı ve tereyağlı",
+      "Price": "15",
+      "Discount": "0",
+      "MenuId": "10"
+    },
+    "19": {
+      "Name": "Bonozil",
+      "Image": "https://s19.postimg.org/r259uh93n/Bonizol_IC_l.jpg",
+      "Description": "Acılı ve tereyağlı",
+      "Price": "15",
+      "Discount": "0",
+      "MenuId": "10"
+    },
+    "20": {
+      "Name": "Ketoral",
+      "Image": "https://s19.postimg.org/in6ckpbir/data20995.jpg",
+      "Description": "Acılı ve tereyağlı",
+      "Price": "15",
+      "Discount": "0",
+      "MenuId": "10"
+    },
+    "21": {
+      "Name": "Bonozil",
+      "Image": "https://s19.postimg.org/r259uh93n/Bonizol_IC_l.jpg",
+      "Description": "Acılı ve tereyağlı",
+      "Price": "15",
+      "Discount": "0",
+      "MenuId": "10"
+    },
+    "22": {
+      "Name": "Napa Extra",
+      "Image": "https://s19.postimg.org/r259uh93n/Bonizol_IC_l.jpg",
+      "Description": "Acılı ve tereyağlı",
+      "Price": "15",
+      "Discount": "0",
+      "MenuId": "10"
+    },
+    "23": {
+      "Name": "Antacid",
+      "Image": "https://s19.postimg.org/in6ckpbir/data20995.jpg",
+      "Description": "Acılı ve tereyağlı",
+      "Price": "15",
+      "Discount": "0",
+      "MenuId": "10"
+    },
+    "24": {
+      "Name": "Histacine",
+      "Image": "https://s19.postimg.org/in6ckpbir/data20995.jpg",
+      "Description": "Acılı ve tereyağlı",
+      "Price": "15",
+      "Discount": "0",
+      "MenuId": "10"
+    },
+    "25": {
+      "Name": "Bonozil",
+      "Image": "https://s19.postimg.org/xvw9yg2mb/BACTROCIN-600x315.jpg",
+      "Description": "Acılı ve tereyağlı",
+      "Price": "15",
+      "Discount": "0",
+      "MenuId": "10"
+    },
+    "01": {
+      "Name": "Fexo",
+      "Image": "https://s19.postimg.org/xvw9yg2mb/BACTROCIN-600x315.jpg",
+      "Description": "Acılı ve tereyağlı",
+      "Price": "15",
+      "Discount": "0",
+      "MenuId": "10"
+    },
+    "02": {
+      "Name": "Antazo",
+      "Image": "https://s19.postimg.org/rvx31y0ab/Headache-_Thermometer-_Tablets-_Pain-_Pills-_Medication-1539191.jpg",
+      "Description": "Acılı ve tereyağlı",
+      "Price": "15",
+      "Discount": "0",
+      "MenuId": "10"
+    },
+    "03": {
+      "Name": "Zanthin",
+      "Image": "https://s19.postimg.org/577w2f0wz/Zanthin-4_large.jpg",
+      "Description": "Acılı ve tereyağlı",
+      "Price": "15",
+      "Discount": "0",
+      "MenuId": "10"
+    },
+    "04": {
+      "Name": "Ziliron-B",
+      "Image": "https://s19.postimg.org/vsaey18g3/ZILIRON-_B.jpg",
+      "Description": "Acılı ve tereyağlı",
+      "Price": "15",
+      "Discount": "0",
+      "MenuId": "10"
+    },
+    "05": {
+      "Name": "Bactrobanointment",
+      "Image": "https://s19.postimg.org/sy79kn3pv/0005923_bactroban-ointmentreg-m_550.jpg",
+      "Description": "Acılı ve tereyağlı",
+      "Price": "15",
+      "Discount": "0",
+      "MenuId": "10"
+    },
+    "06": {
+      "Name": "Kalinac",
+      "Image": "https://s19.postimg.org/5wqoeygxv/KALINAC-50.jpg",
+      "Description": "Acılı ve tereyağlı",
+      "Price": "15",
+      "Discount": "0",
+      "MenuId": "10"
+    },
+    "07": {
+      "Name": "Bactrobanointment",
+      "Image": "https://s19.postimg.org/5j0s7xyvn/FEXO-120.jpg",
+      "Description": "Acılı ve tereyağlı",
+      "Price": "15",
+      "Discount": "0",
+      "MenuId": "10"
+    },
+    "08": {
+      "Name": "Kop",
+      "Image": "https://s19.postimg.org/7bs93r2mb/KOP-100_SR.jpg",
+      "Description": "Acılı ve tereyağlı",
+      "Price": "15",
+      "Discount": "0",
+      "MenuId": "10"
+    },
+    "09": {
+      "Name": "Gelora",
+      "Image": "https://s19.postimg.org/vfj0s333n/GELORA-_GEL-600x315.jpg",
+      "Description": "Acılı ve tereyağlı",
+      "Price": "15",
+      "Discount": "0",
+      "MenuId": "10"
+    }
+  }
+}

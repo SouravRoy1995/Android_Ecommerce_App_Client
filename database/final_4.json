@@ -1,0 +1,611 @@
+{
+  "Category" : {
+    "01" : {
+      "image" : "https://firebasestorage.googleapis.com/v0/b/androidecommerceapp.appspot.com/o/images%2Ffaa7a8ee-27f5-4448-b4b1-5bca58a3d065?alt=media&token=99800bfb-c3ec-42ba-8091-5447e5cd71b0",
+      "name" : "Fruits"
+    },
+    "02" : {
+      "image" : "https://firebasestorage.googleapis.com/v0/b/androidecommerceapp.appspot.com/o/images%2F35d54bc7-95e4-4e0d-aa72-a843aac43a5c?alt=media&token=7b7a88ee-feda-465b-8901-22211a3372d7",
+      "name" : "Meat"
+    },
+    "03" : {
+      "image" : "https://firebasestorage.googleapis.com/v0/b/androidecommerceapp.appspot.com/o/images%2F02dbab47-aa14-43b7-8429-f90a8fa7fb02?alt=media&token=f09d5406-5d14-42c4-b900-11911db25ab7",
+      "name" : "vegetable "
+    },
+    "04" : {
+      "image" : "https://s19.postimg.org/k4gd3g1ar/Sports-1.png",
+      "name" : "Sports"
+    },
+    "05" : {
+      "image" : "https://s19.postimg.org/jexkr4irn/507311349.jpg",
+      "name" : "Book"
+    },
+    "06" : {
+      "image" : "https://s19.postimg.org/tozzqflir/musical-instruments-intro.jpg",
+      "name" : "Musical Instriment"
+    },
+    "07" : {
+      "image" : "https://s19.postimg.org/82kz9l2fn/iik-glory-pack-2-fancy-original-imaek495uchkyjp2.jpg",
+      "name" : "Watch"
+    },
+    "08" : {
+      "image" : "https://s19.postimg.org/w6bqy0q37/K60_K603801_001_main.jpg",
+      "name" : "Bags"
+    },
+    "09" : {
+      "image" : "https://s19.postimg.org/gm4d73apf/toys-main-c5824ff6cd696a4d896490aa7fad8ba2.png",
+      "name" : "Toys"
+    },
+    "10" : {
+      "image" : "https://s19.postimg.org/rygyox94j/tablets_capsules_multi-colored_drug_48978_1920x1080.jpg",
+      "name" : "Medicine"
+    },
+    "-L3DsLRYFJRVxNT5ZCme" : {
+      "image" : "https://firebasestorage.googleapis.com/v0/b/androidecommerceapp.appspot.com/o/images%2F5d397fc8-7665-4c13-9267-03a5999e5dc8?alt=media&token=b0adce34-853f-47f5-8e26-7c5198eeee88",
+      "name" : "Cloth"
+    }
+  },
+  "Medicines" : {
+    "01" : {
+      "description" : "Medicine is the science and practice of the diagnosis, treatment, and prevention of disease. Medicine encompasses a variety of health care practices evolved to maintain and restore health by the prevention and treatment of illness.",
+      "discount" : "0",
+      "image" : "https://s19.postimg.org/xvw9yg2mb/BACTROCIN-600x315.jpg",
+      "menuId" : "10",
+      "name" : "Fexo",
+      "price" : "15"
+    },
+    "02" : {
+      "description" : "Medicine is the science and practice of the diagnosis, treatment, and prevention of disease. Medicine encompasses a variety of health care practices evolved to maintain and restore health by the prevention and treatment of illness.",
+      "discount" : "0",
+      "image" : "https://s19.postimg.org/rvx31y0ab/Headache-_Thermometer-_Tablets-_Pain-_Pills-_Medication-1539191.jpg",
+      "menuId" : "10",
+      "name" : "Antazo update",
+      "price" : "15"
+    },
+    "03" : {
+      "description" : "Medicine is the science and practice of the diagnosis, treatment, and prevention of disease. Medicine encompasses a variety of health care practices evolved to maintain and restore health by the prevention and treatment of illness.",
+      "discount" : "0",
+      "image" : "https://s19.postimg.org/577w2f0wz/Zanthin-4_large.jpg",
+      "menuId" : "10",
+      "name" : "Zanthin",
+      "price" : "15"
+    },
+    "04" : {
+      "description" : "Medicine is the science and practice of the diagnosis, treatment, and prevention of disease. Medicine encompasses a variety of health care practices evolved to maintain and restore health by the prevention and treatment of illness.",
+      "discount" : "0",
+      "image" : "https://s19.postimg.org/vsaey18g3/ZILIRON-_B.jpg",
+      "menuId" : "10",
+      "name" : "Ziliron-B",
+      "price" : "15"
+    },
+    "05" : {
+      "description" : "Medicine is the science and practice of the diagnosis, treatment, and prevention of disease. Medicine encompasses a variety of health care practices evolved to maintain and restore health by the prevention and treatment of illness.",
+      "discount" : "0",
+      "image" : "https://s19.postimg.org/sy79kn3pv/0005923_bactroban-ointmentreg-m_550.jpg",
+      "menuId" : "10",
+      "name" : "Bactrobanointment",
+      "price" : "15"
+    },
+    "06" : {
+      "description" : "Medicine is the science and practice of the diagnosis, treatment, and prevention of disease. Medicine encompasses a variety of health care practices evolved to maintain and restore health by the prevention and treatment of illness.",
+      "discount" : "0",
+      "image" : "https://s19.postimg.org/5wqoeygxv/KALINAC-50.jpg",
+      "menuId" : "10",
+      "name" : "Kalinac",
+      "price" : "15"
+    },
+    "07" : {
+      "description" : "Medicine is the science and practice of the diagnosis, treatment, and prevention of disease. Medicine encompasses a variety of health care practices evolved to maintain and restore health by the prevention and treatment of illness.",
+      "discount" : "0",
+      "image" : "https://s19.postimg.org/5j0s7xyvn/FEXO-120.jpg",
+      "menuId" : "10",
+      "name" : "Bactrobanointment",
+      "price" : "15"
+    },
+    "08" : {
+      "description" : "Medicine is the science and practice of the diagnosis, treatment, and prevention of disease. Medicine encompasses a variety of health care practices evolved to maintain and restore health by the prevention and treatment of illness.",
+      "discount" : "0",
+      "image" : "https://s19.postimg.org/7bs93r2mb/KOP-100_SR.jpg",
+      "menuId" : "10",
+      "name" : "Kop",
+      "price" : "15"
+    },
+    "09" : {
+      "description" : "Medicine is the science and practice of the diagnosis, treatment, and prevention of disease. Medicine encompasses a variety of health care practices evolved to maintain and restore health by the prevention and treatment of illness.",
+      "discount" : "0",
+      "image" : "https://s19.postimg.org/vfj0s333n/GELORA-_GEL-600x315.jpg",
+      "menuId" : "10",
+      "name" : "Gelora",
+      "price" : "15"
+    },
+    "10" : {
+      "description" : "Medicine is the science and practice of the diagnosis, treatment, and prevention of disease. Medicine encompasses a variety of health care practices evolved to maintain and restore health by the prevention and treatment of illness.",
+      "discount" : "0",
+      "image" : "https://s19.postimg.org/4hvy5lnir/Napa-_Extra.jpg",
+      "menuId" : "10",
+      "name" : "Napa",
+      "price" : "15"
+    },
+    "11" : {
+      "description" : "Medicine is the science and practice of the diagnosis, treatment, and prevention of disease. Medicine encompasses a variety of health care practices evolved to maintain and restore health by the prevention and treatment of illness.",
+      "discount" : "0",
+      "image" : "https://s19.postimg.org/4j5vynmo3/tablets_capsules_multi-colored_drug_48978_1920x1080.jpg",
+      "menuId" : "10",
+      "name" : "Histacine",
+      "price" : "15"
+    },
+    "12" : {
+      "description" : "Medicine is the science and practice of the diagnosis, treatment, and prevention of disease. Medicine encompasses a variety of health care practices evolved to maintain and restore health by the prevention and treatment of illness.",
+      "discount" : "0",
+      "image" : "https://s19.postimg.org/7z2lm2rbn/Pantonix_20_Tab.jpg",
+      "menuId" : "10",
+      "name" : "Pantonix",
+      "price" : "15"
+    },
+    "13" : {
+      "description" : "Medicine is the science and practice of the diagnosis, treatment, and prevention of disease. Medicine encompasses a variety of health care practices evolved to maintain and restore health by the prevention and treatment of illness.",
+      "discount" : "0",
+      "image" : "https://s19.postimg.org/g4knkfahf/hqdefault.jpg",
+      "menuId" : "10",
+      "name" : "Alatrol",
+      "price" : "15"
+    },
+    "14" : {
+      "description" : "Medicine is the science and practice of the diagnosis, treatment, and prevention of disease. Medicine encompasses a variety of health care practices evolved to maintain and restore health by the prevention and treatment of illness.",
+      "discount" : "0",
+      "image" : "https://s19.postimg.org/biojc59jn/bactrobanointment.jpg",
+      "menuId" : "10",
+      "name" : "Bactrobanointment",
+      "price" : "15"
+    },
+    "15" : {
+      "description" : "Medicine is the science and practice of the diagnosis, treatment, and prevention of disease. Medicine encompasses a variety of health care practices evolved to maintain and restore health by the prevention and treatment of illness.",
+      "discount" : "0",
+      "image" : "https://s19.postimg.org/5j0s7xyvn/FEXO-120.jpg",
+      "menuId" : "10",
+      "name" : "Fexo",
+      "price" : "15"
+    },
+    "16" : {
+      "description" : "Medicine is the science and practice of the diagnosis, treatment, and prevention of disease. Medicine encompasses a variety of health care practices evolved to maintain and restore health by the prevention and treatment of illness.",
+      "discount" : "0",
+      "image" : "https://s19.postimg.org/xvw9yg2mb/BACTROCIN-600x315.jpg",
+      "menuId" : "10",
+      "name" : "Bactorocine",
+      "price" : "15"
+    },
+    "17" : {
+      "description" : "Medicine is the science and practice of the diagnosis, treatment, and prevention of disease. Medicine encompasses a variety of health care practices evolved to maintain and restore health by the prevention and treatment of illness.",
+      "discount" : "0",
+      "image" : "https://s19.postimg.org/pq2s7wueb/angilock-plus-100_12_5_l.png",
+      "menuId" : "10",
+      "name" : "Angilock",
+      "price" : "15"
+    },
+    "18" : {
+      "description" : "Medicine is the science and practice of the diagnosis, treatment, and prevention of disease. Medicine encompasses a variety of health care practices evolved to maintain and restore health by the prevention and treatment of illness.",
+      "discount" : "0",
+      "image" : "https://s19.postimg.org/in6ckpbir/data20995.jpg",
+      "menuId" : "10",
+      "name" : "Ketoral",
+      "price" : "15"
+    },
+    "19" : {
+      "description" : "Medicine is the science and practice of the diagnosis, treatment, and prevention of disease. Medicine encompasses a variety of health care practices evolved to maintain and restore health by the prevention and treatment of illness.",
+      "discount" : "0",
+      "image" : "https://s19.postimg.org/r259uh93n/Bonizol_IC_l.jpg",
+      "menuId" : "10",
+      "name" : "Bonozil",
+      "price" : "15"
+    },
+    "20" : {
+      "description" : "Medicine is the science and practice of the diagnosis, treatment, and prevention of disease. Medicine encompasses a variety of health care practices evolved to maintain and restore health by the prevention and treatment of illness.",
+      "discount" : "0",
+      "image" : "https://s19.postimg.org/in6ckpbir/data20995.jpg",
+      "menuId" : "10",
+      "name" : "Ketoral",
+      "price" : "15"
+    },
+    "21" : {
+      "description" : "Medicine is the science and practice of the diagnosis, treatment, and prevention of disease. Medicine encompasses a variety of health care practices evolved to maintain and restore health by the prevention and treatment of illness.",
+      "discount" : "0",
+      "image" : "https://s19.postimg.org/r259uh93n/Bonizol_IC_l.jpg",
+      "menuId" : "10",
+      "name" : "Bonozil",
+      "price" : "15"
+    },
+    "22" : {
+      "description" : "Medicine is the science and practice of the diagnosis, treatment, and prevention of disease. Medicine encompasses a variety of health care practices evolved to maintain and restore health by the prevention and treatment of illness.",
+      "discount" : "0",
+      "image" : "https://s19.postimg.org/r259uh93n/Bonizol_IC_l.jpg",
+      "menuId" : "10",
+      "name" : "Napa Extra",
+      "price" : "15"
+    },
+    "23" : {
+      "description" : "Medicine is the science and practice of the diagnosis, treatment, and prevention of disease. Medicine encompasses a variety of health care practices evolved to maintain and restore health by the prevention and treatment of illness.",
+      "discount" : "0",
+      "image" : "https://s19.postimg.org/in6ckpbir/data20995.jpg",
+      "menuId" : "10",
+      "name" : "Antacid",
+      "price" : "15"
+    },
+    "24" : {
+      "description" : "Medicine is the science and practice of the diagnosis, treatment, and prevention of disease. Medicine encompasses a variety of health care practices evolved to maintain and restore health by the prevention and treatment of illness.",
+      "discount" : "0",
+      "image" : "https://s19.postimg.org/in6ckpbir/data20995.jpg",
+      "menuId" : "10",
+      "name" : "Histacine",
+      "price" : "15"
+    },
+    "25" : {
+      "description" : "Medicine is the science and practice of the diagnosis, treatment, and prevention of disease. Medicine encompasses a variety of health care practices evolved to maintain and restore health by the prevention and treatment of illness.",
+      "discount" : "0",
+      "image" : "https://s19.postimg.org/xvw9yg2mb/BACTROCIN-600x315.jpg",
+      "menuId" : "10",
+      "name" : "Bonozil",
+      "price" : "15"
+    },
+    "-L3ncKUMYuw6XOrAjEfO" : {
+      "description" : "Indian",
+      "discount" : "",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/androidecommerceapp.appspot.com/o/images%2F37f5dce3-c251-4698-92a6-4c484d7e441f?alt=media&token=dae3b0d5-a110-479f-9074-de7d9ccb2f7c",
+      "menuId" : "01",
+      "name" : "Orange (Per KG)",
+      "price" : "165"
+    },
+    "-L3ncdfwt20WLGH21_vf" : {
+      "description" : "Red",
+      "discount" : "",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/androidecommerceapp.appspot.com/o/images%2Feb673f14-b29e-4351-ad21-19644b9b269c?alt=media&token=55aab597-0756-4125-81ab-f1914487db6d",
+      "menuId" : "01",
+      "name" : "Apple (Per KG)",
+      "price" : "160"
+    },
+    "-L3ncvZli1tiZlGu_ZWo" : {
+      "description" : "Green",
+      "discount" : "",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/androidecommerceapp.appspot.com/o/images%2F2c0391ca-5f3b-4204-8671-76cf795a5c33?alt=media&token=69bbb523-b9b8-4d3d-91ae-4d4aa96af8d0",
+      "menuId" : "01",
+      "name" : "Apple (Per KG)",
+      "price" : "170"
+    },
+    "-L3ndDZ-Z6HE0K4-2MZ1" : {
+      "description" : "Sagar Kala",
+      "discount" : "",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/androidecommerceapp.appspot.com/o/images%2Fdc1102bf-b6ca-4048-9e7d-db00e427a58c?alt=media&token=8e83d5d3-7385-4565-bed2-d604c466bb79",
+      "menuId" : "01",
+      "name" : "Banana (Per Piece)",
+      "price" : "10"
+    },
+    "-L3ndgZsowsXgNkr4OwO" : {
+      "description" : "",
+      "discount" : "",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/androidecommerceapp.appspot.com/o/images%2F80702d3a-5bee-4642-b7e0-db3d7d3ee4cf?alt=media&token=1017a75b-a527-445d-a449-6a95b9b007f4",
+      "menuId" : "01",
+      "name" : "Guava(Per KG)",
+      "price" : "135"
+    },
+    "-L3nfBX7N91kmVH7fiuT" : {
+      "description" : "",
+      "discount" : "",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/androidecommerceapp.appspot.com/o/images%2F0f242121-3e1e-49a0-a085-345e8121d654?alt=media&token=93fb6fa8-9158-4ec5-9817-1ce3c8490f30",
+      "menuId" : "03",
+      "name" : "Lal Shak (Per KG)",
+      "price" : "20"
+    },
+    "-L3nfj8e_waCYlSs8HnU" : {
+      "description" : "",
+      "discount" : "",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/androidecommerceapp.appspot.com/o/images%2Fe962e5cc-7d9d-4cb0-967f-19e966865206?alt=media&token=d0651d00-fa42-4e69-8c37-179f3ccd1e9d",
+      "menuId" : "03",
+      "name" : "Tomato(Per KG)",
+      "price" : "160"
+    },
+    "-L3ng7v2u3oFbi2onxK1" : {
+      "description" : "",
+      "discount" : "",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/androidecommerceapp.appspot.com/o/images%2F0aa3ef3c-f463-426c-9dbb-02140a7ef9a1?alt=media&token=f76f04a1-aa26-4c8b-94c9-ffac1f4c4243",
+      "menuId" : "03",
+      "name" : "Misti Kumra(Per KG)",
+      "price" : "65"
+    },
+    "-L3ngZMcmsiyJF07qu0X" : {
+      "description" : "",
+      "discount" : "",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/androidecommerceapp.appspot.com/o/images%2F4bc65443-4388-4f50-acf1-11eb6727354d?alt=media&token=b49616b0-b164-46cb-9696-65eaf7dc973b",
+      "menuId" : "03",
+      "name" : "Mula(Per KG)",
+      "price" : "30"
+    },
+    "-L3nh8e52JZtBu6Ytcir" : {
+      "description" : "",
+      "discount" : "",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/androidecommerceapp.appspot.com/o/images%2F22d4b5df-7450-44b1-abcd-00e818ccd7a7?alt=media&token=ecb36dc5-0b28-48dd-8215-2e4400ae993e",
+      "menuId" : "03",
+      "name" : "Korola(Per KG)",
+      "price" : "25"
+    },
+    "-L3nsskTgHATBlnFGE_6" : {
+      "description" : "",
+      "discount" : "",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/androidecommerceapp.appspot.com/o/images%2Fa85b1723-b4a5-45a3-9ff3-f4d15faf9b6e?alt=media&token=2ef95697-1d0d-4616-9ce9-5487124dc2bc",
+      "menuId" : "02",
+      "name" : "Chicken Meat(Per KG)",
+      "price" : "200"
+    },
+    "-L3ntEMylCRFnErQdyHA" : {
+      "description" : "",
+      "discount" : "",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/androidecommerceapp.appspot.com/o/images%2Fd854bf09-2998-487c-9c74-5f9ac8679c4e?alt=media&token=dd1335bf-12b5-40fa-b1c1-8b6edd26f2d9",
+      "menuId" : "02",
+      "name" : "Beef Meat(Per KG)",
+      "price" : "358"
+    },
+    "-L3ntWbkS0gaFAACghJU" : {
+      "description" : "",
+      "discount" : "",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/androidecommerceapp.appspot.com/o/images%2Faa8f7119-7f5c-454e-ba75-d67c47ecaa85?alt=media&token=f5c4dcd5-f55d-4d1a-8ec1-450dc3f87c5d",
+      "menuId" : "02",
+      "name" : "Mutton Meat(Per KG)",
+      "price" : "400"
+    },
+    "-L3ntnw22Ay6gkPJ6zUJ" : {
+      "description" : "",
+      "discount" : "",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/androidecommerceapp.appspot.com/o/images%2Fcc7d8209-f739-44c3-83af-e90e9bda6d1a?alt=media&token=2ba5ff18-03d1-4251-b5b2-e9e344852145",
+      "menuId" : "02",
+      "name" : "Duck Meat(Per KG)",
+      "price" : "250"
+    }
+  },
+  "Rating" : {
+    "017289107" : {
+      "comment" : "good ",
+      "foodId" : "01",
+      "rateValue" : "2",
+      "userPhone" : "017289107"
+    },
+    "01685383674" : {
+      "comment" : "",
+      "foodId" : "-L3ndDZ-Z6HE0K4-2MZ1",
+      "rateValue" : "4",
+      "userPhone" : "01685383674"
+    },
+    "01711338016" : {
+      "comment" : "",
+      "foodId" : "-L35JHE-YbODXTMF5UG_",
+      "rateValue" : "4",
+      "userPhone" : "01711338016"
+    },
+    "01730654518" : {
+      "comment" : "jfjss",
+      "foodId" : "-L3nfBX7N91kmVH7fiuT",
+      "rateValue" : "4",
+      "userPhone" : "01730654518"
+    }
+  },
+  "Requests" : {
+    "1516809978340" : {
+      "address" : "sylhet",
+      "comment" : "asdasd",
+      "medicines" : [ {
+        "discount" : "1",
+        "price" : "109",
+        "productId" : "-L35IOdcJHiLYA9VoIn2",
+        "productName" : "Chowmine",
+        "quantity" : "1"
+      } ],
+      "name" : "Sourav",
+      "phone" : "01685383674",
+      "status" : "1",
+      "total" : "$109.00"
+    },
+    "1516816066752" : {
+      "address" : "asfddaf",
+      "comment" : "asfasf",
+      "medicines" : [ {
+        "discount" : "1",
+        "price" : "109",
+        "productId" : "-L35IOdcJHiLYA9VoIn2",
+        "productName" : "Chowmine",
+        "quantity" : "1"
+      } ],
+      "name" : "Sourav",
+      "phone" : "01685383674",
+      "status" : "7",
+      "total" : "$109.00"
+    },
+    "1516975335387" : {
+      "address" : "Modina market",
+      "comment" : "",
+      "medicines" : [ {
+        "discount" : "0",
+        "price" : "6",
+        "productId" : "-L35JHE-YbODXTMF5UG_",
+        "productName" : "Somucha",
+        "quantity" : "5"
+      } ],
+      "name" : "Raju",
+      "phone" : "01730654518",
+      "status" : "3",
+      "total" : "$30.00"
+    },
+    "1517001891408" : {
+      "address" : "Modina market",
+      "comment" : "I need this product within 2 hour.",
+      "medicines" : [ {
+        "discount" : "",
+        "price" : "200",
+        "productId" : "-L3nsskTgHATBlnFGE_6",
+        "productName" : "Chicken Meat(Per KG)",
+        "quantity" : "2"
+      } ],
+      "name" : "Raju Alom Sourav",
+      "phone" : "01740377378",
+      "status" : "0",
+      "total" : "$400.00"
+    },
+    "1517038656620" : {
+      "address" : "Modina market",
+      "comment" : "",
+      "medicines" : [ {
+        "discount" : "",
+        "price" : "20",
+        "productId" : "-L3nfBX7N91kmVH7fiuT",
+        "productName" : "Lal Shak (Per KG)",
+        "quantity" : "1"
+      } ],
+      "name" : "Raju",
+      "phone" : "01730654518",
+      "status" : "0",
+      "total" : "$20.00"
+    },
+    "1517134078516" : {
+      "address" : "Modina market",
+      "comment" : "",
+      "medicines" : [ {
+        "discount" : "",
+        "price" : "20",
+        "productId" : "-L3nfBX7N91kmVH7fiuT",
+        "productName" : "Lal Shak (Per KG)",
+        "quantity" : "4"
+      } ],
+      "name" : "Raju",
+      "phone" : "01730654518",
+      "status" : "0",
+      "total" : "$80.00"
+    },
+    "1517144954955" : {
+      "address" : "hih",
+      "comment" : "gdgdgd",
+      "medicines" : [ {
+        "discount" : "",
+        "price" : "10",
+        "productId" : "-L3ndDZ-Z6HE0K4-2MZ1",
+        "productName" : "Banana (Per Piece)",
+        "quantity" : "12"
+      } ],
+      "name" : "Sourav",
+      "phone" : "01685383674",
+      "status" : "0",
+      "total" : "$120.00"
+    },
+    "1517150592995" : {
+      "address" : "modina market",
+      "comment" : "tt",
+      "medicines" : [ {
+        "discount" : "",
+        "price" : "160",
+        "productId" : "-L3ncdfwt20WLGH21_vf",
+        "productName" : "Apple (Per KG)",
+        "quantity" : "3"
+      }, {
+        "discount" : "",
+        "price" : "165",
+        "productId" : "-L3ncKUMYuw6XOrAjEfO",
+        "productName" : "Orange (Per KG)",
+        "quantity" : "5"
+      }, {
+        "discount" : "",
+        "price" : "165",
+        "productId" : "-L3ncKUMYuw6XOrAjEfO",
+        "productName" : "Orange (Per KG)",
+        "quantity" : "3"
+      } ],
+      "name" : "Raju",
+      "phone" : "01730654518",
+      "status" : "0",
+      "total" : "$1,800.00"
+    },
+    "1517220115534" : {
+      "address" : "ftuijj",
+      "comment" : "ghhjjg",
+      "medicines" : [ {
+        "discount" : "",
+        "price" : "160",
+        "productId" : "-L3nfj8e_waCYlSs8HnU",
+        "productName" : "Tomato(Per KG)",
+        "quantity" : "3"
+      } ],
+      "name" : "Raju",
+      "phone" : "01730654518",
+      "status" : "0",
+      "total" : "$480.00"
+    }
+  },
+  "User" : {
+    "0158" : {
+      "isStaff" : "false",
+      "name" : "avijeet",
+      "password" : "1234",
+      "secureCode" : "1234"
+    },
+    "01758" : {
+      "isStaff" : "false",
+      "name" : "sourav",
+      "password" : "1234",
+      "secureCode" : "1234"
+    },
+    "6436545" : {
+      "isStaff" : "false",
+      "name" : "sgfua",
+      "password" : "12345",
+      "secureCode" : "0987"
+    },
+    "0172891583" : {
+      "IsStaff" : "false",
+      "name" : "Sourav",
+      "password" : "1234",
+      "secureCode" : "abc123"
+    },
+    "0172891651" : {
+      "isStaff" : "false",
+      "name" : "Sourav",
+      "password" : "1234",
+      "secureCode" : "1234"
+    },
+    "0172891876" : {
+      "IsStaff" : "false",
+      "name" : "Sourav",
+      "password" : "1234",
+      "secureCode" : "abc123"
+    },
+    "01685383674" : {
+      "isStaff" : "true",
+      "name" : "Sourav",
+      "password" : "4321",
+      "secureCode" : "12345"
+    },
+    "01685383675" : {
+      "isStaff" : "true",
+      "name" : "Sourav Roy",
+      "password" : "9999",
+      "secureCode" : "9999"
+    },
+    "01711338016" : {
+      "isStaff" : "false",
+      "name" : "Kim",
+      "password" : "1010",
+      "secureCode" : "1234"
+    },
+    "01723344455" : {
+      "isStaff" : "true",
+      "name" : "Iffat",
+      "password" : "1234",
+      "secureCode" : "1234"
+    },
+    "01730654518" : {
+      "isStaff" : "true",
+      "name" : "Raju",
+      "password" : "1995",
+      "secureCode" : "rajurupok"
+    },
+    "01740377378" : {
+      "isStaff" : "true",
+      "name" : "Raju Alom Sourav",
+      "password" : "Password",
+      "secureCode" : "987654321"
+    }
+  }
+}
